@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(170, 0, 0, 0.807);
+}
+
+
+header{
+    background-color: rgb(80, 0, 0);
+    font-size: 30px;
+    text-align: center;
+    height: 50px;
+
+    nav{
+        a {
+            text-decoration-line: none;
+            color: aliceblue;
+        }
+    }
+}
+
+div{
+    text-align: center;
+    color: rgb(142, 0, 0);
+    
+    fieldset{
+        border: none;
+    }
+    
+
+    legend, select, label, input {
+        font-size: 15px;
+        color: rgb(210, 30, 30);
+    }
+}
